@@ -4,9 +4,12 @@ Please read wiki article and LICENCE.md
 
 - install following libraries to run
 
-  pip install requests\n
+  pip install requests
+  
   pip install lxml
+  
   pip install cssselect
+  
   pip install unidecode
 
 - launch with
